@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.user-info-service
+  - src: https://github.com/namelivia/ansible-user-info-service
 ```
 
 ## Required variables (TODO: Update these)
