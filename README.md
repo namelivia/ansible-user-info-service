@@ -1,4 +1,4 @@
-# User Info Service Ansible role
+# User Info Service Ansible role [![Ansible Lint](https://github.com/namelivia/ansible-user-info-service/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/namelivia/ansible-user-info-service/actions/workflows/ansible-lint.yml)
 
 ## This is a WIP
 
